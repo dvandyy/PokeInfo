@@ -18,3 +18,5 @@ npm install
 ```
 npm run serve
 ```
+
+This app is powered by PokeApi https://pokeapi.co/ .
