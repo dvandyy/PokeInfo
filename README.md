@@ -1,11 +1,11 @@
 # PokeInfo
 
-![](preview/Screenshot-1.png)
+![](Preview/Screenshot-1.png)
 
 In PokeInfo you can search for 151 pokemons.
 After search you will get some basic information like this:
 
-![](preview/Screenshot-2.png)
+![](Preview/Screenshot-2.png)
 
 ## Project setup
 
